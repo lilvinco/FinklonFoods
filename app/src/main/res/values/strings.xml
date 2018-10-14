@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Finklon Foods</string>
+    <string name="address">Owerri, Imo State.</string>
+    <string name="description">Get meals delivered to you in 30mins!</string>
+    <string name="contact">(+234)80-340-607-42</string>
+    <string name="website">www.finklonfoods.com.ng</string>
+
+</resources>
